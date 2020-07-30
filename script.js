@@ -13,24 +13,24 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs = [
   {
-    name: 'jacinto-1',
+    name: 'donny-1',
     displayName: 'Electric Chill Machine',
-    artist: 'Jacinto Design',
+    artist: 'Donny Design',
   },
   {
-    name: 'jacinto-2',
+    name: 'donny-2',
     displayName: 'Seven Nation Army (Remix)',
-    artist: 'Jacinto Design',
+    artist: 'Donny Design',
   },
   {
-    name: 'jacinto-3',
+    name: 'donny-3',
     displayName: 'Goodnight, Disco Queen',
-    artist: 'Jacinto Design',
+    artist: 'Donny Design',
   },
   {
     name: 'metric-1',
     displayName: 'Front Row (Remix)',
-    artist: 'Metric/Jacinto Design',
+    artist: 'Metric/Donny Design',
   },
 ];
 
