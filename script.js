@@ -14,8 +14,8 @@ const nextBtn = document.getElementById('next');
 const songs = [
   {
     name: 'donny-1',
-    displayName: 'Electric Chill Machine',
-    artist: 'Donny Design',
+    displayName: 'Weapon X Facility (Action)',
+    artist: 'X-men Legends - Design',
   },
   {
     name: 'donny-2',
